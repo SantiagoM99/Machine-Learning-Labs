@@ -5,3 +5,5 @@ openpyxl
 ipywidgets==8.1.2
 plotly
 scikit-learn
+kaggle
+ipykernel
