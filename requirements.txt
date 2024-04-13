@@ -8,3 +8,8 @@ scikit-learn
 kaggle
 ipykernel
 imbalanced-learn
+nltk
+keras
+tensorflow
+mlxtend
+langdetect
