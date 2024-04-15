@@ -9,7 +9,13 @@ kaggle
 ipykernel
 imbalanced-learn
 nltk
-keras
-tensorflow
 mlxtend
 langdetect
+keras-tuner
+spacy
+contractions
+inflect
+pydot 
+graphviz
+keras
+scikeras
